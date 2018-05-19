@@ -1,4 +1,4 @@
-var disqus_shortname="diarykompi";
+var disqus_shortname="rizkip2018";
 var disqus_url = disqus_blogger_current_url;
 
 (function () {
